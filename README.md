@@ -1,2 +1,2 @@
-# wind-turbine-
+# wind-turbine
 Symulacja elektrowni wiatrowej
